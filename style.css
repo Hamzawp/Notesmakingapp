@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(172, 174, 181);
+}
+.container{
+    background-color: rgb(31, 44, 77);
+    border-radius: 20px;
+}
+h1{
+    color: white;
+    text-align: center;
+    justify-content: center;
+}
+hr{
+    color: white;
+}
